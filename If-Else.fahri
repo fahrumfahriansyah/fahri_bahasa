@@ -1,0 +1,4 @@
+a=6
+y="true"
+n="false"
+jika a==6 kemudian baca y lain baca n

@@ -1,0 +1,6 @@
+untuk i=0 ke 5 kemudian baca i
+
+baca "atau menggunakan ini"
+
+a=6
+untuk i=0 ke 5 kemudian a+i
