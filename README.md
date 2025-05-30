@@ -18,17 +18,17 @@
 - [x] this language is created using the SLY library which is supported with [PYTHON version 3.*](https://www.python.org/ "Python")
 - [x] this language has the extension .fahri
 
-## Command in Rhs-Lang
+## Command in FAHRI-Lang
 
-| RHS-LANG |  MEAN  |
+| FAHRI-LANG |  MEAN  |
 | -------- |  ----  |
-| FI       |  jika    |
-| TNIRP    |  baca |
-| NEHT     |  kemudian  |
-| ESLE     |  lain  |
-| ROF      |  untuk   |
-| NUF      |   hap  |
-| OT       |  ke    |
+| jika     |  IF    |
+| baca   |  PRINT |
+| kemudian     |  THEN |
+| lain   |  ELSE  |
+|   untuk  |  FOR  |
+| hap     |   FUN  |
+| ke     |  TO    |
 | ->       |  ARROW |
 
 
@@ -48,7 +48,7 @@ python .main.py .bahasaku.rhs
 
 > You can edit file code in the `helloworld.fahri`
 
-## Examples Rhs Lang
+## Examples FAHRI Lang
 
 ### PRINT Hello World!!
 
